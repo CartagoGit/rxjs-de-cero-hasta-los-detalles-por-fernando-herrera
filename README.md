@@ -38,3 +38,7 @@ Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicament
 ## Código fuente de la seccion 3 - Observables
 
 <https://github.com/Klerith/rxjs-ejercicios-completados/releases/tag/v1.0.0>
+
+## Código fuente de la seccion 4 - Funciones para crear Observables
+
+<https://github.com/Klerith/rxjs-ejercicios-completados/releases/tag/v2.0.0>
