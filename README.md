@@ -34,3 +34,7 @@ Por defecto, el puerto que configuré para este proyecto es el `8081`, pero si n
 ```
 
 Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicamente graban los cambios antes de ejecutar el `npm start` nuevamente)
+
+## Código fuente de la seccion 3 - Observables
+
+<https://github.com/Klerith/rxjs-ejercicios-completados/releases/tag/v1.0.0>
