@@ -1,3 +1,5 @@
+
+
 import { fromEvent, range } from "rxjs";
 import { map } from "rxjs/operators";
 
@@ -27,3 +29,4 @@ keyUpCode$.subscribe({
 		console.log("map", code);
 	},
 });
+
