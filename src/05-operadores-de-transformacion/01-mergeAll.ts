@@ -1,6 +1,5 @@
 import { debounceTime, fromEvent, map, mergeAll, Observable } from "rxjs";
 import { ajax } from "rxjs/ajax";
-import { library } from "webpack";
 import {
 	GithubUsersResponse,
 	GithubUsersItemResponse,
