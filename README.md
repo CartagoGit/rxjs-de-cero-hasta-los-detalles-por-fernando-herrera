@@ -46,3 +46,7 @@ Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicament
 ## Código fuente de la seccion 5 - Operadores basicos
 
 <https://github.com/Klerith/rxjs-ejercicios-completados/releases/tag/v3.0.0>
+
+## Código fuente de la seccion 6 - Operadores no tan comunes
+
+<https://github.com/Klerith/rxjs-ejercicios-completados/releases/tag/v4.0.0>
