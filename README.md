@@ -58,3 +58,7 @@ Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicament
 ## Código fuente de la seccion 8 - Operadores AJAX
 
 <https://github.com/Klerith/rxjs-ejercicios-completados/releases/tag/v6.0.0>
+
+## Código fuente de la sección 9 - Operadores de aplanamiento
+
+<https://github.com/Klerith/rxjs-ejercicios-completados/releases/tag/v7.0.0>
