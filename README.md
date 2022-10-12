@@ -62,3 +62,7 @@ Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicament
 ## Código fuente de la sección 9 - Operadores de aplanamiento
 
 <https://github.com/Klerith/rxjs-ejercicios-completados/releases/tag/v7.0.0>
+
+## Código fuente de la sección 10 - Operadores y funciones de combinacion
+
+<https://github.com/Klerith/rxjs-ejercicios-completados/releases/tag/v8.0.0>
